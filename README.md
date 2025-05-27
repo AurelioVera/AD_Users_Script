@@ -3,6 +3,8 @@
 
 
 <h2>Description</h2>
+<p>PowerShell ISE (Integrated Scripting Environment) is a graphical user interface (GUI) for writing, running, and debugging PowerShell scripts.</p>
+
 <p>Steps for adding users via a PowerShell Script:</p>
 
 1. From your server, click Start, right-click on Windows PowerShell ISE, hover to More, and click on “Run as administrator”<br>
